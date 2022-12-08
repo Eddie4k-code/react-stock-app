@@ -6,4 +6,6 @@
 <li>tailwindCSS</li>
 <li>react-router-dom</li>
 <li>react-icons</li>
+<li>apex-charts</li>
+<li>react-apex-charts</li>
 </div>
